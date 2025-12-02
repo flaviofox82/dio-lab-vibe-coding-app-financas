@@ -185,10 +185,10 @@ Resultado Final > É possível acessar o app através do link : https://financas
 ### 5. REFLEXÃO
 A utilização da Inteligência Artificial amplia ainda mais os benefícios, pois permite implementar aplicativos completos com pouco conhecimento de código, aproveitando plataformas que automatizam grande parte do desenvolvimento. Além disso, a IA embarcada no app atua como um agente financeiro inteligente, capaz de interagir diretamente com o usuário, oferecer recomendações personalizadas e adaptar-se ao comportamento individual, tornando a experiência mais prática, inclusiva e envolvente.
 
-Outro ponto essencial é transformar dados financeiros em informações visuais e personalizadas. Gráficos de pizza e barras tornam os padrões de consumo mais fáceis de compreender, enquanto o agente financeiro cria proximidade ao oferecer dicas práticas e chamar o usuário pelo nome.
+Outro ponto essencial é transformar dados financeiros em informações visuais e personalizadas. Gráficos de pizza e barras tornam os padrões de consumo mais fáceis de compreender.
 
-O plano gratuito do Lovable com interações limitadas por dia não permitiu resolver alguns erros no app, principalmente na funcionalidade de upload de documentos em formato PDF para automatizar o registro das despesas e receitas, mas que também despertou um alerta deste procedimento de risco já que são faturas e extratos bancários são dados sensíveis e pessoais. Em outro momento poderemos estudar uma melhor forma de fazer isso. 
+O plano gratuito do Lovable possui interações limitadas por dia, o que não permitiu resolver alguns erros no app, principalmente ao fazer upload de documentos em formato PDF para automatizar o registro em lote das despesas e receitas. Posteriormente podemos implementar essa funcionalidade de forma mais segura dado o seu caráter de risco, já que faturas e extratos bancários contém dados sensíveis. 
 
- O verdadeiro objetivo do desafio foi alcançado, aprender a criar um aplicativo funcional com IA, equilibrando simplicidade, acessibilidade e inteligência, validando que o app realmente ajuda iniciantes a manter o hábito de controlar suas finanças.
+ O verdadeiro objetivo do Desafio foi alcançado, aprender a criar um aplicativo funcional utilizando os conceitos de Inteligência Artificial, equilibrando simplicidade, acessibilidade, inteligência e que possibilita a usuários de todos os níveis manter o hábito de controlar suas finanças.
 
 
